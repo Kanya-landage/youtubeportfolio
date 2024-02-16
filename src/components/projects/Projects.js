@@ -1,14 +1,6 @@
 import React from "react";
 import Title from "../layouts/Title";
-import {
-  ats,
-  crm,
-  eSign,
-  covid,
-  drawing,
-  feed,
-  projectTwo,
-} from "../../assets/index";
+import { ats, crm, eSign, covid, drawing, feed } from "../../assets/index";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
